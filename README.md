@@ -4,4 +4,4 @@
 
 --
 
-あるいは、[notebooks](https://github.com/wistaria/toho2022/main/notebooks)の下のファイル一式をダウンロードして、PC上のJupyter Notebookで実行することも可能です(要 Numpy, Pillow)
+あるいは、ファイル一式を[ダウンロード](https://github.com/wistaria/toho2022/archive/refs/heads/main.zip)して、PC上のJupyter Notebookで実行することも可能です(要 Numpy, Pillow)
